@@ -1,0 +1,1 @@
+python .\vax_walmart.py --patient_fill --login
