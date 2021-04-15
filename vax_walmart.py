@@ -16,10 +16,12 @@ parser.add_argument("--patient_fill", help="autofill patient info",
 parser.add_argument("--book", help="automatically book the appointment without allowing the user to correct the form(risky).",
                     action="store_true")
 parser.add_argument("--login", action="store_true")
+parser.add_argument("--location", action="store_true")
 args = parser.parse_args()
 
 from ctparse import ctparse
 from datetime import datetime
+from locator import load_location
 ts = datetime.now()
 if(args.login):
     first_name = input('What is your first name: ')
@@ -36,7 +38,6 @@ if(not args.login):
         #assert "Python" in driver.title
         with open('login.json') as f:
             login = json.load(f)
-
         elem = driver.find_element_by_name("email")
         elem.clear()
         elem.send_keys(login["email"])
@@ -155,6 +156,8 @@ from selenium.common.exceptions import WebDriverException
 if(args.patient_fill):
     with open('patient_info.json') as f:
         info = json.load(f)
+        if(args.location):
+            info = load_location(info)
     elem = driver.find_element_by_id("patient.bio.dob")
     elem.send_keys(info["dob"])
     gender = info["gender"]

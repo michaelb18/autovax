@@ -5070,3 +5070,1951 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
 JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
 1618186244636	Marionette	INFO	Stopped listening on port 61000
+1618268031867	geckodriver	INFO	Listening on 127.0.0.1:50787
+1618268034854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile7gVdsa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618268050241	Marionette	INFO	Listening on port 50795
+1618268051439	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26096, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268138124	Marionette	INFO	Stopped listening on port 50795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268159852	geckodriver	INFO	Listening on 127.0.0.1:50944
+1618268162885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileZy71HZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618268169568	Marionette	INFO	Listening on port 50952
+1618268169725	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268246747	Marionette	INFO	Stopped listening on port 50952
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268267330	geckodriver	INFO	Listening on 127.0.0.1:51118
+1618268270367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileQyEb6V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618268275613	Marionette	INFO	Listening on port 51126
+1618268276175	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14184, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1618268325138	Marionette	INFO	Stopped listening on port 51126
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268373168	geckodriver	INFO	Listening on 127.0.0.1:51267
+1618268376201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile1O0XXG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618268383188	Marionette	INFO	Listening on port 51279
+1618268383531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1618268434009	Marionette	INFO	Stopped listening on port 51279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618268450762	geckodriver	INFO	Listening on 127.0.0.1:51414
+1618268453784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileqn7vQP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618268459729	Marionette	INFO	Listening on port 51422
+1618268460022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: https://i5.wal.co/dfw/63fd9f59-e560/a3fc15bd-d385-4a64-a307-e3cedf83d6dc/v1/common.bundle.615be5725afeed0d9ecf.js-9212e596f4e3d22e16ac167067060541874f2eea-br.js, line 52: Error: electrode-fetch: payload from URL /pharmacy/api/logger caused translate exception: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+1618268528676	Marionette	INFO	Stopped listening on port 51422
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618271631853	geckodriver	INFO	Listening on 127.0.0.1:51908
+1618271634868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileUUdTy9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 21848, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618271640917	Marionette	INFO	Listening on port 51918
+1618271641101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618271798206	Marionette	INFO	Stopped listening on port 51918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618271801153	geckodriver	INFO	Listening on 127.0.0.1:52019
+1618271804179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileTAUlRa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618271809913	Marionette	INFO	Listening on port 52028
+1618271810416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618271824845	Marionette	INFO	Stopped listening on port 52028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618271921979	geckodriver	INFO	Listening on 127.0.0.1:52116
+1618271925016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileda0yzw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618271930556	Marionette	INFO	Listening on port 52124
+1618271930758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 24612, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618271979051	Marionette	INFO	Stopped listening on port 52124
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618271985831	geckodriver	INFO	Listening on 127.0.0.1:52362
+1618271988843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilevJIj8e"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618271994941	Marionette	INFO	Listening on port 52371
+1618271995123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272006583	Marionette	INFO	Stopped listening on port 52371
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272023691	geckodriver	INFO	Listening on 127.0.0.1:52524
+1618272026713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilevTGCN5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272032440	Marionette	INFO	Listening on port 52533
+1618272032946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/558828/51646608/xbbe/creative/adj?p=APEucNXtZVpEPt4d9I_LOgEU7KQ4PiQQIx0I7LQLjra5yIyQa5RSbKk&d=CnkAoCZ_4GLtwboBvOgb8dTIpE2YNxQOjttUOMtbEAVI_31WlgKFQWDWMI28O0a_-6JNBlTp1w9UaF-BbL4U-yQjdNdG6VBfZeUHoLq8nFtfkNN_7CcXzLPuPqAP31E91n_MnMsi1gCVqk4CLlZGWkdG2LlHoALJYHloEvkTAKAmf-BEp43LQPpnAMDwMPftV29qFHlLvdqke4fte_M7AIgJKqXoKA2pPn_Za9HU6fSCLqfv_NTYLXqTo-aQlLcTv3BFROsyPaOTvBdzx0gb51cmCiBc1vU6E_IpJTXEcmiw6TlaBSFMtVQoDBmxxjU32GTa58YTpfL4n_QgdAz57vyWRXql5VrUECo88X0uqkJSVQSAUYRauQqxRXRByoR5VmwX_5R2ZhJgEeEK_G3XeNdrvvyEcO3H9_bOJokSSrMweFdFYu3jyB28xtWTnLr_m2w6C33j7AxGGJEO75zPDlG1Hg3TvFgNUxfk-7EA0zRg3WGmoMQWV3DzdXaU5bkwVydMtA17IpOp6wbgkRBIyg_RC5VpF-0cGLBlcgVn6GqKlzM39G6yfTrB5fD2bM6CF_m1GNgbQi5oZn1H2zP8rIpxGojM74OUzfjkfkCvZeudZbkYr39QkS9SmeR4p7_IWWiWqln_u321l62DObosvgI64X0sSN7ThkobOokhcPpSg_NnHx4iiGNDG34MBnXszxXlIQm3c3Sim3O84jpRwgzAqJGcvwR8kAzHIvNcAyHa4U-tUHkQQ5nSeUgdKnIYqYZgyDRZtFNItQ4T8vqonxCazhdovsJmgCjg2fsJJkNWvPi7E4H4mdTwnGLU3gX1O3fbpRTysNfUNlXhDdNe06qzACYEluDtB58q99CnT4u9BEsaftZCb2dlmL8Dt7GUhhTf8vhltnlDry2UTATCnKKXM9lku2JwC5xtZ70Ly6kwYvA7l5hh_0Pz7lB8HO2nSr__18QGh3Nz3nfHgI_NQ-ic470F06AFQ1rqiNSki2K0j7eTTu9Cuz_ura3Ckq1U92g6TM-5OrsiV5bUiQVnNuYMOfeA-OUvoTyOZRUSkRqm928ai7U-SrmJtAJxVfmUtGfT_JuB4Dr40N97l7EwY4DwyIPXtFrmxaSCkYEMZNUkgCwtwhWBxtGsXkmDQf1Y-BVouKZ1l5suptk-fDJCNj0qjQfGtX0q39g8XqUJpWL4jkSHTamuPHF9zX-Hp1ycRwZnmRma9bDbR5N7KHEfHbN-eGyWTO9ZugKZhExI7OB6A_celL7te1hyxc4iRv-ZwlLKWjP-Ku4TnYTVcsx-eDvwrC1dX1HAzChdgTGTE8GgKWRD7Ct-yYqbmOcHX56j1Uz4i8XFgOp03RJn4Byt7P-AmIC0ejynjPmf3h3rNEM1jpAg2xAo64JX6U8OMiF2rWbYJPzmWUEfxDWcOSS-awvDWfhNK09iY__iHYbwd8pBy6Gg0vVzqS5gELYQVS5h-9pnwMLbqKo4wmrqTSMscyxTWkYOIhjw1OQK8pAU-rA0upIzZMKymNi2M78h0PWiCemIriHn3URwyo25itqDp74_1lVaRxvFhQxxuL2xHv_ByR5HJghnPAViYB-G-SKIUHPI6154ZwYm_PDOEoSu--xpVt7bf9jj3H5zGW8tn5Eu0WWsU1JTcNKENP5HXIU1NiRJdeJ1dQwV8yBRq6iMuPQlkc9NUkEMC3Gl_YG5awR799Rbzu_3lH4HvCDU0A1ezjGqyUKcIunBR7JdnKW_09PaMn26xUJgyOGxnZ3krU5Vn8pISovVDWicOcgDc66PfhJl39KZgWLvWu4OXt24lklNB-Kx9pQ0Dx8tTWSy0V3qUEYpHm9ZjlD7VpJnjBTmtkpB7PQebzx8mnSoyHjjrCiKRDJZRcRyxhJA2XSWR_UONtFnfkFUJlB_Zdg0vD0DLNZGoBL2veHBvDZHOetEPq8rcdTJIgVbIzEOgheYNboiNxTQjjEsDZSCJ7_VvxRLM0FCElgoQ4PBGz3GyKScqPLLE5G-uZ4Iyb29uy9J-i8K5Ru2K4uaf-HduJen2QayLkh3FOGgGBMP1Z0u_ijOQDeodeTvjS-myJn42LGHxccHoSNOeFeuYcRR3AgnfeDeVhf_erH_VNdoT-YdCOl65drQ1SkWK7tjDmWj0qIH4tvbGg7XhtXGv_sdDQNpNLcBSdW34S_6UO5bGRVFzvv1x2PK7Niuu4R_5Rse-dmlyga_9C2DA0zDdR_TDxpEQeUOVb0CoZ-81wszmo37y6IzLzSCv___p7LoeTX_5G25y7bpzhfZmfsN3zKwzfMZSAvb89j7BZIR--nDDEWpeyHGsYKyTiKpgmOKTcEKaUQ7JlHsLU6RLlHeWsRsCNsKQibdR754tiYpuzI0kvH4vEsp0Y1SWKvHuz0CY1d1xj8teqN0WUnmq4vD59cFpGylVpLVg22-O5zGnP6kHv9xH776639BfI3SOneBOrdrpz8_ERKo6uUBicgpQ_Ynok768twqD2lqRlh0kunR6yAippG4XAFUoYi5mMWmoQLEdKcnuEyph8YaGODrvA0YDGJSiBgtynzJ1z1JJK08zXZGUGSveYRMVBAJ1lFJuozmAYFprunYgIy9KmS5cWGR2ju8M_zmQ90uAzNBLogm_wLWEfzUpePzK01SB24oH90vawuo5txwM3tuDznYn_8YLysHqTFdUEkUgYUD-f9hyIoJKY9K0KH6UWM9Dh-mkBJr1Fdj6mGHHFa931ID8mOsYwJ6byCbGayu_ETRdzZVbSIgrX_aeWZ5oAuDlm4OW-EuL6NYASu9Pj8zSyHCBjrGcBuIvt7LUo80b72dHFctf0L1tfquc8t_z2kPb1V7N5WpSKOh7bYDBFlb-KSeeexryzymcN8eRAwtklXidh6w6k-xzBjiRPDj_RaYXwxR_vKWdJNOZxnjjqHEpImIZh_JD-WcR8Q6PZNWE_j4oo7QP5YPejB-AdjJl6atDp9XZyFB1PsK80s2F12oze8yfUEGb3dhIWnKAESe5mq3AEUh5XxloHH-WaZu1ZhHsU9Zn78uJUvOawFKW5CLQL5OjMvLEDMszSfyGV8c_4hMHBXIVD-zqIMDs_sMb4b0CmS3WZ8LchqjohNNEdwChctH8A7XH4Bis0G-n-CKm0uWDOpOojX6pFp-Up9iu4WUPJ_f8VJevkpWagkFb1oNQv7NQjIzlTF-Vt6r5e2uNlX3WTquWxi2r64Z9SHm0Of-tz0SO2H561sopMMJTr7p9I9jzGi3EnLwNXr9_zv2XLUUflKUO9cthUCwO6NZd4FzThRYYZadZVe8JfWK46nnUDPmgyrK6Q0xcKmmcV9HTmjFOsvW15_aL80tfEIXUs0xo26HH-5vVWSqwolK4KqllWcZAR62MZ0QV3RMDUol0bqIgsZX8Im6gEtW5Y7Sf6tDwofQ4hRXfJyPBSaXuoMrrGLOS6WtSlvhIlhFaJoBWgGg3ifCAAZx_WJUkrJCfNRrBpeb7D2mQReMeOK4xOrxvnJqIGeut7aQAI3-4vDTSrfP5BRHf3ZvCoRyCPpcfK5lOeVQ9FD-G6FbWH903wfwQAWWGkEIABI95Giux1511mJIRjBSzh-LN8qOPZT1uevQ7bkCyW3LJmmvLRltT_HZ9VLwETFIv4xO8kogyJHx5V7Lb8lbQGAB, line 1064: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/558828/51646606/xbbe/creative/adj?p=APEucNXJXc5UaSEd9IlgiFE8GGnt6nZdi_d_jiaXksgwnyGjdre8xac&d=CnkAoCZ_4KHz7cpfkhNRdo6i5UBI0QyyvQbzofvnGoFV_8Yk72cK9adlQrNxqjChP8MpFDwcScbaV--gI8-VsvIxo-xnLRW__S1_8SyJHAccpQlvpbwEUt5gZDNg-6zpBDz4BVc7N_LlpdJh7Ur9YJkwzIUPa_1suHK8EvkTAKAmf-Cl-YnSsaoNWJWJ20h24UiInRDYYXiaGIwlvbnOegedJ32Ugn_YAM2DMIoyYBfp_KpLbG1Xrqy3OqAGt-GkchOxyRIUhwoeCzf_dLyVdT_WWJNGmbAHFMvXLCD2oa0Auroc3mvr500NJ_Hj7fqbBiQDM9xbfGuUt9tajcd7KpK911seVmD4DgBomcTLNVb8P-uEePWNKFTLxaXK8Fue4gI84GgmjuaXO7nHf6Pq9Kvm5EKVs70MmweRXuFq0JQSil5RHbiPQLsI2byO6IeGQ_URjHFws9G4FoHxUkDlHIjkTacLtTF-zjNTqdqqiBKw5mmuW4m6R0Lob9uMBzXnGb0v6By1Rc2Fl5kXG8dNBQYVbNbSf3gEhU0py5oBpbjq1Q_Bcerwf_4d19x1MfGaKiVf_8ER_TOCtNRMSz94u3Zu20JNLnduCB8gCURD-nR6WlfA34lik3y7qw5JYR4oAl9e3UMNhe5SLEXtZmAsm0O8NPrrN4tOVeO6NMDFnuPJJMwAbDgHdKd2dLkYaWHiyaeW-zNDDW2jiFBN84NxTqF5uR9AAv3e9-3ZpPfjdV8WJlwCwA4NxpIwQFGm-puDng8OM6c0mh8RC-tO3GySOpGg8QI4o-iz7xzY9bDl8FhZlmnombwvqhp-ZevI1iXO5tiuDnDa2OurHxQnbq_FhQ-BsX2AdykhGkzyF0Al4X3SNhReJ3ep8FMVAUADJX2XKmgAbRHzdxir4R8mNQYWGagQQ3mxmk6iqBvHqf6bAonqWsE9uTudK6p_93LNGYsQLViz6MCa8Edg62PyYHkMCbRK1o-ecgh2nLTY7xjBinZ7BvqklF6QHLDqektDYZ2cIoHlq7tR8peic64wqcs6DYlvyOY5oHacFwHX1CcPHVq6o72dKXXgCadsPhi5inMZgdpzwsecKx0e_vVrx_L9I2SfJXS2h8LJH9wFq6DAbZkA79Xx_NEUpqJGDxNAlD_H3aCpsNnyt5uPBBGPD_pgjWpX-NFmgNPw9aBgxrqxtctN0YriOlCLQL_moo_BgrOC_p9PNS-Z-4nWum4UIiYvOksnYbt58gDGja-ucVLfslWTVhGxit9d9HmBfPMTRiPVV5F6p2D5rDL1BUgmswOGh5gQaqPNzjvnaTi9Jz5xeFy2r6nDcyOgfwoseYnlXP8ZE-LDvef4spWGXVIq0kahOL5zhUqU3vKkUUKsKPJ_rDFJ0_MJPuMId-fNftQndRFyFpVemOq1wFHnFMZS-Mx0Q7vJSVWNwFgKzHSb8XA11fXrF366ePL4nSsrkCFwDBYbRfQHe0iERlbviDGTgflGaGlBj2S5vzu4u-GN73ZqDkQ9BDUMixyyqlyGAaUmiGUqBWavMvvKKxJFGkceq9pPYc9P1gqNi6RYJQ09ZNwzmxZZIJDKK4iuw9JjkOUp67Cd6MlZfudVRUVb8gTOQCGf9zMtcIPxlOpWGRlP3EWx0QRuvIiysna9xpDaCfhNCy9PnYlpirCDWjayp8KiTBvBQ3rgz7G8hZ9_NkKfYiXbEbv24hBvfzOQ6-F-Kb7h7TlVxj9pFtvqBoVSCN2F6AGBpJ6RMEoM2Gv77aG6OCHGnQlQcjk4DFXjBoYmBetHhDz6sScJJXzmw4NwKzGzrPTtLlU72UEWyCktHD8UbjJr0ZVNuhqBglx8XdnRFezaiyQOkKmwhc5hxHKFpBxtGp-ka9IWKsB1NsP9YyOISMJrcOFpdzrcL6KpxrpvwYy4v_-j8q5E3n_q0Ix1Fmi81WLochV-iF1wscx1GrLr1V7rAEewOPNga1AnZRclUQNaQ9tsLm2htJ-mXHilnaSlC24ZH-mHWzfqg-FyHLkpBa2Zs4eIHa101RCkLtNBk1QSwsazIGau0IviYEv7MuXTALmHsPsp89C-c8yKLLyDia3sS7sAiIR236bw6cBEHbrxcO5bQK4EXpiXeiID0Fndf0BO_MxqXRuDNQmpp9i_0ybYyl6J7_ZKXufesot6kHy9jp0oWyFteN9i2ZalJUNrYTX2KyqZrxT6rcSyPbSQFw-78vyprsB-jTWuu6sEoEjs-d6jjepaSkK-3-TB7qxBqXXeu4GbAxYBW6Wtu27dJcQ2X9KSh3Z9YB4Ov_YtCFzfaDVdc6VN4U2X-xNpmhtPfGdLtvMg--vT_ttKEPcsU8wnJmuNhMjupurHev2NZUEdgoBrHd9xuPgCH2GnA_Dx806LRNjkPSfmFj7nD7G-GvUSb0l9jU_nQOL-oNx2bKeVG5apvEOVLlJhnYZwxq7HMvnHBOcu8ILaut-Ysm9z1hsPaEi3bFh_VGVhZREIcFG-j55py7eCMWRbVDhjUKPdEoG585pPcZMInDQ5I8amEwxvT0MlFNOvGDFHLq4M1LfsJ4vkna-lr-C4muvtbvZz-c8B6EgwWb3QiCU2hpy3wRVjj7oQVEGTLM7v7hzeoSKHFjZqXXWS8hmLh2WaYjWjdk0h4E3fVxgln4WjtZyJDnwm3gnkWj1n9fVpf0gRdQVlqnp_CIapObZlo7RgDEMVj5OXg_SdOQwO_llq7b6O5arHH5FuoJDqk4rU5sgoMSmaRHo8jhtJ2L_xt2eVEoo1CHchvxsW32PX-ZOeEKIHt04DJKgJnCI6T8JFl-rhttlcq07TNgr98MJxflQYEqkNOHYOGM4T1a_aSMqlnR0YddAac8TLbnyNSfTJpUmOEbIV2_3s8HxajMvJIJVSBwDHCCofymBFFAsc3YEYzGauk4fBFHI04E7z4XbgxrU7G8nE1EBfYNt0ABVzukvC2Q-sz51t8e4tpqN0Nz59Qd6KRUa_0UFqEWwAv8nJ9b1zjrmM6a_spnx_certeEGDHQLNYV0z87e9Kfj2jYbTD3B0dzDtW2cS9wvTmFqrlGs0h07VzebpuW01pJsABn-tWv02JRp9M6U4RgJdYHQ7Yi38f25vKLXYeGj9cbpAB60pyoJwETN4XECw7_o3LOaYO3RrufvtBWdqyR009zLj1Oe2NvOcR7CNC0fXTUZj70_hbxLPkL03H8Kqpk3aswt1ReXEK7ecdIzeUlmck73kXpEzrIlqf1hQ3GC_v41LSS5BB8JB07JqqLZeMTE-Vs0ZarjYhtbcnWyeiFlgPhh7ZIROkFp77sarCEhJhZ7ynpicWWr5A9ijbJtp-eJTxDYli0shcbAJhNd57Cj_qkTymizm5uBlH58Ep63Iq4bILsoD3IMDhKrQYUT_MizZZGtxUXg7GKRDECNCy47wkjKE6qlAv8JzTtOWsVAOwddTC3naAKP_aQnAtEIxyfFJL5HpFP3hPophAG8Mkcrq0N1OJqMWZMgj5FCdH4pV3rpxVhN82uryn41ChyUH8e0SyQ1wqAHl-eQFH-zIdjdUPgbuL6b3-A-4YyMg6LboUb0ZGkEIABI95Gh-Pf_GjLZDkbCd9aP6M4Hdy1LqEhPRaRDtEVLbYCdIdIu70mHojIhKsKdXCy6bjCfweA0j_LkNZWMKy2AB, line 1064: NS_ERROR_NOT_INITIALIZED: 
+1618272052615	Marionette	INFO	Stopped listening on port 52533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272158738	geckodriver	INFO	Listening on 127.0.0.1:52762
+1618272161754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile0Mrib1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272167675	Marionette	INFO	Listening on port 52772
+1618272168010	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272212248	Marionette	INFO	Stopped listening on port 52772
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272215099	geckodriver	INFO	Listening on 127.0.0.1:53014
+1618272218088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileJgMdZ3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272223462	Marionette	INFO	Listening on port 53023
+1618272223824	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272280056	Marionette	INFO	Stopped listening on port 53023
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272283604	geckodriver	INFO	Listening on 127.0.0.1:53254
+1618272286608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofiles0UT3Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272292228	Marionette	INFO	Listening on port 53264
+1618272292341	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618272346052	Marionette	INFO	Stopped listening on port 53264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272347865	geckodriver	INFO	Listening on 127.0.0.1:53465
+1618272350873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileynF6xH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272357691	Marionette	INFO	Listening on port 53473
+1618272358208	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+1618272516859	Marionette	INFO	Stopped listening on port 53473
+1618272524096	geckodriver	INFO	Listening on 127.0.0.1:53809
+1618272527105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile4bPt5x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272534497	Marionette	INFO	Listening on port 53820
+1618272534658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272551511	Marionette	INFO	Stopped listening on port 53820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272588588	geckodriver	INFO	Listening on 127.0.0.1:53978
+1618272591609	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilezLfHfj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272596849	Marionette	INFO	Listening on port 53986
+1618272597342	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272618853	Marionette	INFO	Stopped listening on port 53986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272630842	geckodriver	INFO	Listening on 127.0.0.1:54162
+1618272633853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilelRb6d2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272639708	Marionette	INFO	Listening on port 54170
+1618272640089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272662648	Marionette	INFO	Stopped listening on port 54170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272677747	geckodriver	INFO	Listening on 127.0.0.1:54367
+1618272680777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilerVrfBQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272686920	Marionette	INFO	Listening on port 54375
+1618272687026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272739846	Marionette	INFO	Stopped listening on port 54375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272766430	geckodriver	INFO	Listening on 127.0.0.1:54623
+1618272769450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileL9OXHu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272774829	Marionette	INFO	Listening on port 54631
+1618272775186	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618272804858	Marionette	INFO	Stopped listening on port 54631
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272817643	geckodriver	INFO	Listening on 127.0.0.1:54857
+1618272820668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilemPsZR1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272826028	Marionette	INFO	Listening on port 54865
+1618272826444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272839793	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618272852603	Marionette	INFO	Stopped listening on port 54865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618272934914	geckodriver	INFO	Listening on 127.0.0.1:55079
+1618272937940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileEdgkwB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618272943399	Marionette	INFO	Listening on port 55087
+1618272943670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618272985504	Marionette	INFO	Stopped listening on port 55087
+1618273377977	geckodriver	INFO	Listening on 127.0.0.1:55431
+1618273380986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile6ecg9l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+[Parent 15672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+JavaScript error: resource://activity-stream/lib/PlacesFeed.jsm, line 169: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsINavBookmarksService.addObserver]
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 122: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.log: "RemoteSettingsWorker error: Error: Can't import when we've started shutting down."
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazondotcom@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+out of memory: 0x0000000000000100 bytes requested
+.1:55465
+1618273426177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile6VyBf9"
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_blur
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_blur
+    
+[GFX1-]: Failed to compile shader: cs_blur
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_blur
+    
+[GFX1-]: Failed to compile shader: cs_border_solid
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_border_solid
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_border_solid
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_border_solid
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: cs_clip_box_shadow
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_box_shadow
+    
+[GFX1-]: Failed to compile shader: cs_clip_rectangle
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: cs_clip_rectangle
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-13T00:23:48Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Failed to compile shader: brush_solid
+[GFX1-]: Fallback (SW-)WR to Basic
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: brush_solid
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_solid
+    
+[GFX1-]: Failed to compile shader: brush_opacity
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_opacity
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: Failed to compile shader: ps_text_run
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: ps_text_run
+    
+[GFX1-]: Failed to compile shader: brush_image
+
+[2021-04-13T00:23:49Z ERROR webrender::device::gl] Failed to compile shader: brush_image
+    
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_blur", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_border_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_box_shadow", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("cs_clip_rectangle", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_solid", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_opacity", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("ps_text_run", ""))
+[GFX1-]: wr_renderer_render: Shader(Compilation("brush_image", ""))
+[GFX1-]: Compositors might be mixed (5,1)
+1618273500169	geckodriver	INFO	Listening on 127.0.0.1:55502
+1618273503140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilelg5xSR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618273510423	Marionette	INFO	Listening on port 55510
+1618273510482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618273525309	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 720, 1284, 250
+[GFX1-]: Failed buffer for 0, 896, 567, 768
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+out of memory: 0x00000000000001F0 bytes requested
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61742754/20210402135857481/api_v1_layout_v2_300x600_desktop.js, line 256: uncaught exception: out of memory
+[GFX1-]: Failed buffer for 0, 896, 567, 768
+[GFX1-]: Failed buffer for 0, 720, 1284, 250
+[GFX1-]: Failed buffer for 0, 896, 567, 768
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18260, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620015,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xA10003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x620020,name=PLayerTransaction::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xD,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x370015,name=PCompositorBridge::Msg_WillClose) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 571: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStreamListener.onDataAvailable]
+JavaScript error: resource://devtools/server/actors/network-monitor/network-response-listener.js, line 571: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStreamListener.onDataAvailable]
+[Parent 25812, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("Connection closed, pending request to server0.conn0.child3/domwalker23, type getOffsetParent failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:196:56\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: resource://devtools/client/fronts/targets/target-mixin.js, line 101: Error: Descriptor already destroyed for target: Target:server0.conn0.child3/frameTarget1
+[Parent 25812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: "Error while calling actor 'tabDescriptor's method 'getTarget'" "Tab destroyed while connecting to the frame"
+console.log: "Request to connect to TabDescriptor \"undefined\" failed: Error: Protocol error (tabDestroyed): Tab destroyed while connecting to the frame from: server0.conn0.tabDescriptor1"
+[Parent 25812, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+Handler function LocalDebuggerTransport instance's this.other.hooks.onPacket threw an exception: Error: Unexpected packet server0.conn0.watcher4, {"from":"server0.conn0.watcher4","error":"noSuchActor","message":"No such actor for ID: server0.conn0.watcher4"}
+Stack: onPacket@resource://devtools/shared/protocol/Front.js:340:24
+onPacket@resource://devtools/client/devtools-client.js:489:13
+send/<@resource://devtools/shared/transport/local-transport.js:68:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 340, column: 24
+console.error: (new Error("Unexpected packet server0.conn0.watcher4, {\"from\":\"server0.conn0.watcher4\",\"error\":\"noSuchActor\",\"message\":\"No such actor for ID: server0.conn0.watcher4\"}", "resource://devtools/shared/protocol/Front.js", 340))
+JavaScript error: resource://devtools/client/framework/target.js, line 50: TypeError: target is null
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618274540432	Marionette	INFO	Stopped listening on port 55510
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618367652104	geckodriver	INFO	Listening on 127.0.0.1:50256
+1618367655248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile751Omg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618367669138	Marionette	INFO	Listening on port 50264
+1618367669955	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside-20.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+1618368829123	Marionette	INFO	Stopped listening on port 50264
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618368867097	geckodriver	INFO	Listening on 127.0.0.1:51483
+1618368870929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileiU2BjA"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618368896520	Marionette	INFO	Listening on port 51491
+1618368897166	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618368964422	Marionette	INFO	Stopped listening on port 51491
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618369009173	geckodriver	INFO	Listening on 127.0.0.1:51769
+1618369012221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileaVXuVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618369024544	Marionette	INFO	Listening on port 51777
+1618369025661	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618369110051	Marionette	INFO	Stopped listening on port 51777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618369162947	geckodriver	INFO	Listening on 127.0.0.1:52086
+1618369166052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile2PSA1Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618369178125	Marionette	INFO	Listening on port 52094
+1618369178645	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet1284, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21\nCanCloseWindow@chrome://browser/content/browser.js:7838:36\nWindowIsClosing@chrome://browser/content/browser.js:7855:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet1285, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21\nCanCloseWindow@chrome://browser/content/browser.js:7838:36\nWindowIsClosing@chrome://browser/content/browser.js:7855:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet1286, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21\nCanCloseWindow@chrome://browser/content/browser.js:7838:36\nWindowIsClosing@chrome://browser/content/browser.js:7855:7\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+permitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21
+CanCloseWindow@chrome://browser/content/browser.js:7838:36
+WindowIsClosing@chrome://browser/content/browser.js:7855:7
+
+1618369253378	Marionette	INFO	Stopped listening on port 52094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618369257371	geckodriver	INFO	Listening on 127.0.0.1:52350
+1618369260447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileLRIDrm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618369272697	Marionette	INFO	Listening on port 52358
+1618369273730	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+1618369757525	Marionette	INFO	Stopped listening on port 52358
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618369774502	geckodriver	INFO	Listening on 127.0.0.1:53035
+1618369778249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileaeZ0Tn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618369787584	Marionette	INFO	Listening on port 53043
+1618369787907	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 19900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618369893350	Marionette	INFO	Stopped listening on port 53043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618369903098	geckodriver	INFO	Listening on 127.0.0.1:53336
+1618369906306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileeMWvl6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618369913210	Marionette	INFO	Listening on port 53346
+1618369913645	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+[Parent 15772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618370327293	Marionette	INFO	Stopped listening on port 53346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tps://www.signupgenius.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.child3/domnode832, type setNodeValue failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+showTextEditor/done/</<@resource://devtools/client/inspector/markup/views/text-editor.js:101:25
+do@resource://devtools/client/shared/undo.js:70:16
+endBatch@resource://devtools/client/shared/undo.js:81:11
+do@resource://devtools/client/shared/undo.js:93:10
+showTextEditor/done/<@resource://devtools/client/inspector/markup/views/text-editor.js:99:31
+process@resource://gre/modules/Promise-backend.js:961:38
+walkerLoop@resource://gre/modules/Promise-backend.js:845:29
+Promise*scheduleWalkerLoop@resource://gre/modules/Promise-backend.js:775:19
+schedulePromise@resource://gre/modules/Promise-backend.js:809:12
+completePromise@resource://gre/modules/Promise-backend.js:741:12
+
+1618370324688	Marionette	INFO	Stopped listening on port 53808
+1618370347318	geckodriver	INFO	Listening on 127.0.0.1:54295
+1618370350296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilewyzogW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370357208	Marionette	INFO	Listening on port 54303
+1618370357643	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1618370415707	Marionette	INFO	Stopped listening on port 54303
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370445024	geckodriver	INFO	Listening on 127.0.0.1:54581
+1618370448093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile89pwEX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370458665	Marionette	INFO	Listening on port 54589
+1618370459132	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618370536191	Marionette	INFO	Stopped listening on port 54589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370538683	geckodriver	INFO	Listening on 127.0.0.1:54949
+1618370541718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilenWRPXH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370549211	Marionette	INFO	Listening on port 54957
+1618370549554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618370560270	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370607121	Marionette	INFO	Stopped listening on port 54957
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370632744	geckodriver	INFO	Listening on 127.0.0.1:55243
+1618370635763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilecmObBT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370642289	Marionette	INFO	Listening on port 55252
+1618370643293	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.signupgenius.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1618370807312	Marionette	INFO	Stopped listening on port 55252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370808648	geckodriver	INFO	Listening on 127.0.0.1:55638
+1618370811789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileUpo4e0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370818657	Marionette	INFO	Listening on port 55646
+1618370819134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618370889861	Marionette	INFO	Stopped listening on port 55646
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618370900015	geckodriver	INFO	Listening on 127.0.0.1:55977
+1618370903035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilesrdMZh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618370912455	Marionette	INFO	Listening on port 55986
+1618370912475	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1618371056444	Marionette	INFO	Stopped listening on port 55986
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371063784	geckodriver	INFO	Listening on 127.0.0.1:56352
+1618371066820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilexGQnuE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371077487	Marionette	INFO	Listening on port 56360
+1618371077883	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618371108002	Marionette	INFO	Stopped listening on port 56360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371114558	geckodriver	INFO	Listening on 127.0.0.1:56586
+1618371117583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilefGrq66"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371124883	Marionette	INFO	Listening on port 56595
+1618371124923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618371260043	Marionette	INFO	Stopped listening on port 56595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371268559	geckodriver	INFO	Listening on 127.0.0.1:56966
+1618371271590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile8K95aD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371279915	Marionette	INFO	Listening on port 56976
+1618371280024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618371333099	Marionette	INFO	Stopped listening on port 56976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371339810	geckodriver	INFO	Listening on 127.0.0.1:57345
+1618371342817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilewhY4cI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371348643	Marionette	INFO	Listening on port 57355
+1618371349055	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371384516	Marionette	INFO	Stopped listening on port 57355
+1618371389624	geckodriver	INFO	Listening on 127.0.0.1:57608
+1618371392661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileE6uKAx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371398885	Marionette	INFO	Listening on port 57617
+1618371398902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://b041d7e544a16a4157c44065d95c7f1f.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html, line 13: ReferenceError: googqscp is not defined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618371519652	Marionette	INFO	Stopped listening on port 57617
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371531654	geckodriver	INFO	Listening on 127.0.0.1:57966
+1618371534693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilefUhcKs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371540975	Marionette	INFO	Listening on port 57974
+1618371541025	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1618371573069	Marionette	INFO	Stopped listening on port 57974
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371573284	geckodriver	INFO	Listening on 127.0.0.1:58208
+1618371576305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileX9PrkK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618371588410	Marionette	INFO	Listening on port 58216
+1618371588844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371808821	Marionette	INFO	Stopped listening on port 58216
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618371819598	geckodriver	INFO	Listening on 127.0.0.1:58657
+1618371824556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileE6yeWR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:367:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:301:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:351:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:198:14\ncallback@resource://gre/modules/Timer.jsm:127:16\n"
+1618371855505	Marionette	INFO	Listening on port 58665
+1618371855725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618371893331	Marionette	INFO	Stopped listening on port 58665
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441272543	geckodriver	INFO	Listening on 127.0.0.1:63995
+1618441275761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileeAPKHi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441287146	Marionette	INFO	Listening on port 64004
+1618441288214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618441303511	Marionette	INFO	Stopped listening on port 64004
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441311530	geckodriver	INFO	Listening on 127.0.0.1:64082
+1618441314546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileEX9Tba"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441321410	Marionette	INFO	Listening on port 64091
+1618441321899	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618441360968	Marionette	INFO	Stopped listening on port 64091
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441352447	Marionette	INFO	Listening on port 64173
+1618441352770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618441375552	Marionette	INFO	Stopped listening on port 64173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441381752	geckodriver	INFO	Listening on 127.0.0.1:64244
+1618441384805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileM48RHb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441390226	Marionette	INFO	Listening on port 64252
+1618441390543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 833: NotAllowedError: Shutting down and refusing additional I/O tasks
+1618441445093	Marionette	INFO	Stopped listening on port 64252
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441452288	geckodriver	INFO	Listening on 127.0.0.1:64326
+1618441455325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile49XGON"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441462500	Marionette	INFO	Listening on port 64345
+1618441462657	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.error: services.settings: 
+  main/pioneer-study-addons-v1 Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    _validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:830:36
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:928:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: blocklists/plugins sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/public-suffix-list sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: pinning/pins sync interrupted by shutdown
+1618441852561	Marionette	INFO	Stopped listening on port 64345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441860279	geckodriver	INFO	Listening on 127.0.0.1:64847
+1618441863317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileqGL0hv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441868852	Marionette	INFO	Listening on port 64855
+1618441869068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618441959865	Marionette	INFO	Stopped listening on port 64855
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618441968743	geckodriver	INFO	Listening on 127.0.0.1:65129
+1618441971789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileBg8XJg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618441977225	Marionette	INFO	Listening on port 65137
+1618441977554	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442037336	Marionette	INFO	Stopped listening on port 65137
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442044095	geckodriver	INFO	Listening on 127.0.0.1:65443
+1618442047134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilegrM3Ms"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618442052803	Marionette	INFO	Listening on port 65451
+1618442052882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618442070128	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618442171796	Marionette	INFO	Stopped listening on port 65451
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442183647	geckodriver	INFO	Listening on 127.0.0.1:49396
+1618442186687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile5Sx9RS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618442192746	Marionette	INFO	Listening on port 49414
+1618442193112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618442239550	Marionette	INFO	Stopped listening on port 49414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442263095	geckodriver	INFO	Listening on 127.0.0.1:49626
+1618442266142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileKiisCg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618442271748	Marionette	INFO	Listening on port 49634
+1618442271890	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 22284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: uncaught exception: undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618442374962	Marionette	INFO	Stopped listening on port 49634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442383077	geckodriver	INFO	Listening on 127.0.0.1:49933
+1618442386103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile2VYbaM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618442391513	Marionette	INFO	Listening on port 49941
+1618442391841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://s.yimg.com/rq/iv/inside.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1618442687943	Marionette	INFO	Stopped listening on port 49941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618442705558	geckodriver	INFO	Listening on 127.0.0.1:50345
+1618442708588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileLrUJzn"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618442714036	Marionette	INFO	Listening on port 50353
+1618442714327	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5928, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 5928, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 3908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618442743183	Marionette	INFO	Stopped listening on port 50353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618443956043	geckodriver	INFO	Listening on 127.0.0.1:50752
+1618443959093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilepaFlw2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618443964624	Marionette	INFO	Listening on port 50762
+1618443965015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 20456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618443988115	Marionette	INFO	Stopped listening on port 50762
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618444059618	geckodriver	INFO	Listening on 127.0.0.1:50978
+1618444062648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileSJRPLq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444067836	Marionette	INFO	Listening on port 50987
+1618444068577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444563237	Marionette	INFO	Stopped listening on port 50987
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileMEtNQj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444237282	Marionette	INFO	Listening on port 51306
+1618444237543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444298200	Marionette	INFO	Stopped listening on port 51306
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileICNiZd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444300125	Marionette	INFO	Listening on port 51675
+1618444300173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444310051	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618444564347	Marionette	INFO	Stopped listening on port 51675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+sole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444489814	Marionette	INFO	Listening on port 52178
+1618444490068	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4624, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618444565248	Marionette	INFO	Stopped listening on port 52178
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileKrdvID"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444551035	Marionette	INFO	Listening on port 52530
+1618444551256	Marionette	WARN	TLS certificate errors will be ignored for this session
+out of memory: 0x0000000000280000 bytes requested
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+1618444590238	geckodriver	INFO	Listening on 127.0.0.1:52623
+1618444593265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofile6Evtbc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444598543	Marionette	INFO	Listening on port 52632
+1618444599006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444612985	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618444647774	Marionette	INFO	Stopped listening on port 52632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618444670481	geckodriver	INFO	Listening on 127.0.0.1:52829
+1618444673529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileFjhWC7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444678962	Marionette	INFO	Listening on port 52837
+1618444679264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444689271	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1618444712697	Marionette	INFO	Stopped listening on port 52837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618444726129	geckodriver	INFO	Listening on 127.0.0.1:53029
+1618444729177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileXWRsjD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444734291	Marionette	INFO	Listening on port 53037
+1618444734420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444760148	Marionette	INFO	Stopped listening on port 53037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618444767976	geckodriver	INFO	Listening on 127.0.0.1:53287
+1618444771027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofilesENEAd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444776467	Marionette	INFO	Listening on port 53295
+1618444776772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618444910884	Marionette	INFO	Stopped listening on port 53295
+1618444991464	geckodriver	INFO	Listening on 127.0.0.1:53587
+1618444994502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MICHAE~1\\AppData\\Local\\Temp\\rust_mozprofileQGiIfB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618444999603	Marionette	INFO	Listening on port 53595
+1618445000682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618445089224	Marionette	INFO	Stopped listening on port 53595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
