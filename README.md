@@ -6,3 +6,7 @@ Setup guide:
 4. Go to the folder that was just made
 5. Right click on "install.ps1", then click "Run with Powershell." Type "Y" and press enter when the big piece of text warning you about scripts comes up. Don't worry, you are only allowing this code to install some Python Code that it needs to work properly. There are 2 things that it is installing, both of them are safe(I even installed them on my own computer). The first is called "Selenium", it lets the computer code open your web browser and click stuff to make the appointment. The other is called "GuerillaMail," which creates a temporary Walmart account for you.
 6. Then, right click "get_appointment.ps1" and click "Run with Powershell." If the warning comes up again, type "Y" and press enter. After that, the code should ask you for your name and when you would like it to schedule the appointment. Once the time you specified comes, Firefox will open on your computer and an appointment will automatically be made. I reccommend not touching anything while the web browser is open, as this can confuse the code and make it not work.
+
+Don't book appointments in this without putting the correct information in pateint_info.json first or without making sure you are actually eligible first! Also please correct any errors this makes on the appointment form
+
+NRV Sign-up coming soon
