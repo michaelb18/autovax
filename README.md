@@ -8,3 +8,6 @@ Setup guide:
 6. Then, right click "get_appointment.ps1" and click "Run with Powershell." If the warning comes up again, type "Y" and press enter. After that, the code should ask you for your name and when you would like it to schedule the appointment. Once the time you specified comes, Firefox will open on your computer and an appointment will automatically be made. I reccommend not touching anything while the web browser is open, as this can confuse the code and make it not work.
 
 Don't book appointments in this without putting the correct information in pateint_info.json first or without making sure you are actually eligible first! Also please correct any errors this makes on the appointment form
+
+
+This should go without saying, but this repo is no longer being supported. If you are in the US and are motivated enough to set up bots to get vaccines, you've probably gotten one already. Keep a look out if they decide to make eligibility rules for boosters though!
